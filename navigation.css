@@ -1,0 +1,87 @@
+.grid {
+  margin-left: 10px;
+  padding-right: 50px;
+  width: 120%;
+}
+#google-plus {
+  color: red;
+  font-size: 25px;
+  margin-left: 20px;
+}
+.label1 {
+  font-size: 35px;
+  font-weight: lighter;
+}
+.red {
+  color: red;
+}
+.blue {
+  color: blue;
+}
+.orange {
+  color: orange;
+}
+.black{
+  color: black;
+}
+.span {
+  margin: 10px;
+}
+.input {
+  border-radius: 0px;
+}
+#search {
+  background: blue;
+  color: white;
+  font-size: 25px;
+  margin-left: -95px;
+  margin-top: 3px;
+  padding: 5px;
+  width: 7%;
+}
+#login {
+  float: right;
+  margin-right: -50px;
+  padding: 10px;
+}
+#home_bar {
+  background: #C8C8C8 ;
+  margin-left: 0px
+  margin-right: -50px;
+  margin-top: 0px;
+}
+#nav {
+  margin-right: -50px;
+}
+nav ul {
+  list-style-type: none;
+}
+nav li {
+  display: inline;
+}
+nav li label {
+  color: white;
+  cursor: pointer;
+}
+.select {
+  background: white;
+  border:1px solid white;
+  border-radius: 5px;
+  cursor: pointer;
+  height:40px;
+  margin-bottom: 2px;
+  margin-left: 10px;
+  margin-top: 4px;
+  width:120px;
+}
+.select1 {
+  background: #C8C8C8;
+  height: 100px;
+  width: 300px;
+}
+.navigation_bar {
+  background: #330099;
+  display: none;
+  margin-top: -15px;
+  width: 4%;
+}
